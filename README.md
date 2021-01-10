@@ -131,5 +131,3 @@ Some of the items in the menu are listed below :
 </div>
 
 
-</body>
-</html>
